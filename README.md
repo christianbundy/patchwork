@@ -14,6 +14,7 @@
 </h4>
 
 ![Patchwork screenshot](screenshot.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchristianbundy%2Fpatchwork.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchristianbundy%2Fpatchwork?ref=badge_shield)
 
 <details>
   <summary>Table of Contents</summary>
@@ -102,3 +103,7 @@ Please read the [Patchwork Contribution Guidelines](contributing.md) before open
 
 - [scuttlebutt.nz](https://www.scuttlebutt.nz)
 - [scuttlebot.io](https://scuttlebot.io)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchristianbundy%2Fpatchwork.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchristianbundy%2Fpatchwork?ref=badge_large)
